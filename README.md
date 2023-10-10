@@ -92,36 +92,42 @@ for i in range(0,9):
 
 ### Original Image
 
-![image](https://github.com/PERARASU10/THRESHOLDING/assets/118348589/5dac3b65-9b28-463a-87aa-43ce6e33d5bd)
+<img width="533" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/caa851dc-8c8d-4166-95b0-4a915b372d34">
 
 
 
 ### Global Thresholding
 
-![image](https://github.com/PERARASU10/THRESHOLDING/assets/118348589/fa0b60c8-52f0-4206-8698-ab2a79f6b12f)
+<img width="537" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/c11c2207-5214-4128-8f02-88c3194b5273">
 
-![image](https://github.com/PERARASU10/THRESHOLDING/assets/118348589/d34d9b45-264a-4910-a991-24c189df5b10)
-
-![image](https://github.com/PERARASU10/THRESHOLDING/assets/118348589/5599bb21-702d-4a82-8100-78600847fc37)
-
-![image](https://github.com/PERARASU10/THRESHOLDING/assets/118348589/18e53214-ebae-4e91-b841-a81f0dc5f335)
+<img width="524" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/54b92451-3b27-4a05-97f0-a0092bfbf4a4">
 
 
-![image](https://github.com/PERARASU10/THRESHOLDING/assets/118348589/0e550366-d646-44e0-850f-ab7641bb6e5b)
+<img width="535" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/da1cb7a8-4b86-46de-94ae-02003986146b">
+
+
+<img width="543" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/52ba94fe-06ab-46a0-bc0a-ac1ae4b1084a">
+
+
+
+<img width="527" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/9ac6e15a-8995-4b13-8dfd-2554cad21129">
+
 
 
 
 
 ### Adaptive Thresholding
-![image](https://github.com/PERARASU10/THRESHOLDING/assets/118348589/3c2d4588-d715-4950-a023-ae4541a6bb62)
+<img width="530" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/390913c1-f15e-4d0b-83c1-70b9bfa06145">
 
 
-![image](https://github.com/PERARASU10/THRESHOLDING/assets/118348589/11338a0a-ac9c-4833-b6cb-1fdf2c4609e6)
+<img width="539" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/c8091b37-4406-4855-a7fb-2cb051670f93">
+
 
 
 
 ### Optimum Global Thesholding using Otsu's Method
-![image](https://github.com/PERARASU10/THRESHOLDING/assets/118348589/dd875aea-3047-4174-abba-59e5749184ba)
+
+<img width="530" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/6651a33a-5e5d-4910-ab82-3cc004d68a55">
 
 
 
