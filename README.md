@@ -29,8 +29,8 @@ Display the results.
 ## Program
 
 ```python
-## Developed by: PERARASU M
-## Register No: 212222100033
+## Developed by: PRAKASH M
+## Register No: 212222100035
 ```
 
 ### Load the necessary packages
