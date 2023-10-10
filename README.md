@@ -117,7 +117,9 @@ for i in range(0,9):
 
 
 ### Adaptive Thresholding
-<img width="530" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/390913c1-f15e-4d0b-83c1-70b9bfa06145">
+
+<img width="530" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/6651a33a-5e5d-4910-ab82-3cc004d68a55">
+
 
 
 <img width="539" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/c8091b37-4406-4855-a7fb-2cb051670f93">
@@ -126,9 +128,7 @@ for i in range(0,9):
 
 
 ### Optimum Global Thesholding using Otsu's Method
-
-<img width="530" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/6651a33a-5e5d-4910-ab82-3cc004d68a55">
-
+<img width="530" alt="image" src="https://github.com/Prakashmathi2004/THRESHOLDING/assets/118350045/390913c1-f15e-4d0b-83c1-70b9bfa06145">
 
 
 ## Result
